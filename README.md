@@ -1,5 +1,5 @@
 # Portifolio
-`Greatings for everyone that may be viewing my portifolio, I have gathered here some of the projects I have made so far while self studying. Below I will leave some of my contact information.`
+`Greatings for everyone that may be viewing my portifolio, I have gathered here some of the projects I have made so far while studying. Below I will leave my contact information.`
 
 ## Projrcts
 
