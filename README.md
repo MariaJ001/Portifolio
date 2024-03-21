@@ -11,4 +11,4 @@
 ## Contact Me
 
 - Email: mariajuliasilvamedeiros107@gmail.com
-- LinkedIn: [Profile](www.linkedin.com/in/maria-julia-s-591534234)
+- [LinkedIn](www.linkedin.com/in/maria-julia-s-591534234)
