@@ -4,8 +4,9 @@
 ## Projects
 1. [Stock Market Prevision test](https://github.com/MariaJ001/stock_market_prevision) (ongoing)
 2. [Magic 8-ball](https://github.com/MariaJ001/8-Ball-simulator/tree/main) (ongoing)
-3. [Tic-Tac-Toe](https://github.com/MariaJ001/Tic-Tac-Toe/tree/main)
-4. [Sal's shipping](https://github.com/MariaJ001/Sal-s-Shipping/tree/main)
+3. [Game Night Organizer](https://github.com/MariaJ001/Game_Night_Organizer)
+4. [Tic-Tac-Toe](https://github.com/MariaJ001/Tic-Tac-Toe/tree/main)
+5. [Sal's shipping](https://github.com/MariaJ001/Sal-s-Shipping/tree/main)
 
 ## Contact Me
 
